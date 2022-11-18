@@ -5,6 +5,7 @@
     "emitDecoratorMetadata": true,
     "module": "commonjs",
     "moduleResolution": "node",
+    "sourceMap": true,
     "outDir": "./dist",
     "removeComments": true,
     "esModuleInterop": true,
